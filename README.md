@@ -1,1 +1,1 @@
-Projects in graph matching and data analysis.
+Projects in numerical linear algebra.
